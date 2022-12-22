@@ -1,0 +1,3 @@
+const REFERENCE_PITCH = 440
+
+export {REFERENCE_PITCH}
